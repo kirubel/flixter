@@ -21,6 +21,10 @@ gem 'coffee-rails', '~> 4.0.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
+# Use device for authentication
+
+gem 'devise', '>= 3.2.4'
+
 # Use bootstrap
 gem 'bootstrap-sass', '~> 3.3.4'
 
